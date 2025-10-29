@@ -25,6 +25,7 @@ intrigue_modifier = {
 
 stewardship_modifier = {
 	character_travel_speed = 1
+	monthly_barter_goods_mult = 0.01
 	monthly_stewardship_lifestyle_xp_gain_mult = 0.02
 	monthly_wanderer_lifestyle_xp_gain_mult = 0.005
 	monthly_nht_leadership_lifestyle_xp_gain_mult = 0.01
