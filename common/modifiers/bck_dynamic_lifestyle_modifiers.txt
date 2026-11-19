@@ -34,6 +34,7 @@ stewardship_modifier = {
 martial_modifier = {
 	character_travel_safety = 1
 	knight_limit = 0.2
+	mercenary_hire_limit = 0.1
 	monthly_martial_lifestyle_xp_gain_mult = 0.02
 	monthly_wanderer_lifestyle_xp_gain_mult = 0.005
 	monthly_nht_prowess_lifestyle_xp_gain_mult = 0.01
